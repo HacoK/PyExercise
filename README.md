@@ -1,2 +1,2 @@
-# PyExercise
+Some exercises for python
 
